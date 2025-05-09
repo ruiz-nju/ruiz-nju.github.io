@@ -248,7 +248,7 @@ Wait to be updated...
 
 <br/>
 
-# 🎖 Honors
+# 🏆 Awards
 
 
 Wait to be updated...
