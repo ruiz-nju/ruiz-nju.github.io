@@ -144,7 +144,7 @@ My name is Rui Zhu (Ray, 朱睿), an 3<sup>rd</sup>-year undergraduate student a
 <!-- <span class="pronunciation" style="cursor: pointer;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none'; this.querySelector('.toggle-symbol').textContent = this.nextElementSibling.style.display === 'block' ? '▼' : '►';"><span class="toggle-symbol" style="margin-right: 5px;">►</span><span style="color: gray;">How to pronounce?</span></span>
 <span style="display: none;">My name is pronounced as "Gwan-chung Wan". The "Gwan" rhymes with "man", and "chung" sounds like "chung" in "chunk".</span> -->
 
-Also, I am a member of D<sup>3</sup> Lab at College of William and Mary, working closely with [Yang Li](https://littlestone111.github.io/) and [Prof. Hai-Peng Chen](https://haipeng-chen.github.io/).
+I am also a member of D<sup>3</sup> Lab at College of William and Mary, working closely with [Yang Li](https://littlestone111.github.io/) and [Prof. Hai-Peng Chen](https://haipeng-chen.github.io/).
 
 <div style="text-align: left; margin: 20px 0;">
   <img src="../images/signature.png" alt="Signature" style="max-width: 300px; height: auto;">
