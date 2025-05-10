@@ -139,7 +139,7 @@ redirect_from:
 # 🤵🏻 About Me
 
 
-My name is Rui Zhu (Ray, 朱睿), an 3<sup>rd</sup>-year undergraduate student at School of Intelligence Science and Technology in Nanjing University, where I am very fortunate to be advised by [Prof. Lan-Zhe Guo](https://www.lamda.nju.edu.cn/guolz/).
+My name is Rui Zhu (Ray, 朱睿), a 3<sup>rd</sup>-year undergraduate student at School of Intelligence Science and Technology in Nanjing University, where I am very fortunate to be advised by [Prof. Lan-Zhe Guo](https://www.lamda.nju.edu.cn/guolz/).
 
 <!-- <span class="pronunciation" style="cursor: pointer;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none'; this.querySelector('.toggle-symbol').textContent = this.nextElementSibling.style.display === 'block' ? '▼' : '►';"><span class="toggle-symbol" style="margin-right: 5px;">►</span><span style="color: gray;">How to pronounce?</span></span>
 <span style="display: none;">My name is pronounced as "Gwan-chung Wan". The "Gwan" rhymes with "man", and "chung" sounds like "chung" in "chunk".</span> -->
@@ -235,9 +235,11 @@ Wait to be updated...
 # 🔎 Service
 
 ## Conference Committee Member
+
+Wait to be updated...
 <!-- - Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024/2025, AISTATS'2025
 - Reviewer for CVPR'2024/2025, ICCV'2025, ECCV'2024 -->
-- Reviewer for IJCAI'2025, ECAI'2025
+<!-- - Reviewer for IJCAI'2025, ECAI'2025 -->
 
 <!-- ##  Journal Reviewer
 - IEEE TIFS, TIP, TKDE, TNNLS
